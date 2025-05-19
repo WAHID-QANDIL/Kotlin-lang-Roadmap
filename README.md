@@ -1,5 +1,5 @@
 # Kotlin-lang-Roadmap
-![hero-cover-6dd34ed75729683235a4f47d714a604e](https://github.com/user-attachments/assets/7f699305-0524-4684-9095-d5ac6621b19d)
+![image](https://github.com/user-attachments/assets/e183b19e-a257-4679-80cd-7d9144b64998)
 
 ![Kotlin Lang Roadmap](https://github.com/user-attachments/assets/46cf1661-40db-4552-8341-af6c4897e17e)
 
