@@ -4,9 +4,11 @@
 # Get Started From Here! **https://kotlinlang.org/docs/getting-started.html**
 
 Books Suggestion: 
-Kotlin In Action 2nd Edition
-Kotlin Apprentice 3rd Edition
-Head First Kotlin
+<ol>
+  <li>Kotlin In Action 2nd Edition</li>
+  <li>Kotlin Apprentice 3rd Edition</li>
+  <li>Head First Kotlin</li>
+</ol>
 
 ![Kotlin Lang Roadmap](https://github.com/user-attachments/assets/46cf1661-40db-4552-8341-af6c4897e17e)
 
